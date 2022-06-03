@@ -7,7 +7,10 @@
 
 @import url(../blocks/text-block/text-block.css);
 @import url(../blocks/text-block/_placed/text-block_placed_center.css);
+@import url(../blocks/text-block/_placed/text-block_placed_feedback.css);
 @import url(../blocks/text-block/__title/text-block__title.css);
+@import url(../blocks/text-block/__text/text-block__text.css);
+@import url(../blocks/text-block/__caption/text-block__caption.css);
 
 @import url(../blocks/slider-navigation/slider-navigation.css);
 @import url(../blocks/switcher/switcher.css);
@@ -17,5 +20,7 @@
 @import url(../blocks/slider-btn/_type/slider-btn_type_previous.css);
 
 @import url(../blocks/feedback/feedback.css);
+@import url(../blocks/feedback/__slider/feedback__slider.css);
+@import url(../blocks/feedback/__slide/feedback__slide.css);
 
 @import url(../blocks/footer/footer.css);
