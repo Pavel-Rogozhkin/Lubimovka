@@ -1,0 +1,12 @@
+.switcher__dot {
+  width: 6px;
+  height: 6px;
+  border: 1px solid #242424;
+  cursor: pointer;
+  border-radius: 50%;
+  appearance: none;
+}
+
+.switcher__dot:checked {
+  background-color: #242424;
+}
