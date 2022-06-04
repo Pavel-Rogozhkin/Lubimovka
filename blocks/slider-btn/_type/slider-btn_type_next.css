@@ -3,11 +3,25 @@
   transform: rotate(-135deg);
 }
 
-.slider-btn_type_next:after {
+.slider-btn_type_next:before {
   content: '';
   width: 100%;
   height: 100%;
   display: block;
   background: transparent url(../../../images/arrow-right.svg) no-repeat center;
   transform: rotate(135deg);
+}
+
+.slider-btn_type_next:hover {
+  transition: border-top-color .1s ease-in-out .0s,
+              border-right-color .1s ease-in-out .1s,
+              background-color .1s ease-in-out .2s;
+  border-top-color: #242424;
+  border-right-color: #242424;
+  background-color: #242424;
+}
+
+.slider-btn_type_next:hover:before {
+  transition: background-image .1s ease-in-out .2s;
+  background-image: url(../../../images/arrow-right-white.svg);
 }
