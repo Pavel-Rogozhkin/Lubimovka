@@ -4,5 +4,14 @@
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__navi/header__navi.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__navi-link/header__navi-link.css);
+@import url(../blocks/header/__social-links/header__social-links.css);
+@import url(../blocks/header/__social-link/header__social-link.css);
+@import url(../blocks/header/__to-support/header__to-support.css);
+@import url(../blocks/header/__to-support/_plus/header__to-support_plus.css);
+@import url(../blocks/header/__to-support/_link/header__to-support_link.css);
 
 @import url(../blocks/footer/footer.css);
