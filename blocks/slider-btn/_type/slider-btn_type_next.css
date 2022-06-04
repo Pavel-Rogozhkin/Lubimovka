@@ -3,7 +3,7 @@
   transform: rotate(-135deg);
 }
 
-.slider-btn_type_next:before {
+.slider-btn_type_next:after {
   content: '';
   width: 100%;
   height: 100%;
@@ -21,7 +21,7 @@
   background-color: #242424;
 }
 
-.slider-btn_type_next:hover:before {
+.slider-btn_type_next:hover:after {
   transition: background-image .1s ease-in-out .2s;
   background-image: url(../../../images/arrow-right-white.svg);
 }
