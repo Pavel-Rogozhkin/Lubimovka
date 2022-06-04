@@ -1,5 +1,6 @@
 .feedback__slide {
   width: 100%;
+  max-width: 420px;
   padding: 33px 30px 24px 30px;
   background-color: #fff;
 }
