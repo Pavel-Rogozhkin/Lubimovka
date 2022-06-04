@@ -17,12 +17,16 @@
 @import url(../blocks/switcher/switcher.css);
 @import url(../blocks/switcher/__dot/switcher__dot.css);
 @import url(../blocks/switcher/_placed/switcher_placed_slider-navigation.css);
+
 @import url(../blocks/slider-btn/slider-btn.css);
 @import url(../blocks/slider-btn/_type/slider-btn_type_next.css);
 @import url(../blocks/slider-btn/_type/slider-btn_type_previous.css);
+@import url(../blocks/slider/slider.css);
+@import url(../blocks/slide/slide.css);
+
+@import url(../blocks/slider/_placed/slider_placed_feedback.css);
+@import url(../blocks/slide/_placed/slide_placed_feedback.css);
 
 @import url(../blocks/feedback/feedback.css);
-@import url(../blocks/feedback/__slider/feedback__slider.css);
-@import url(../blocks/feedback/__slide/feedback__slide.css);
 
 @import url(../blocks/footer/footer.css);
