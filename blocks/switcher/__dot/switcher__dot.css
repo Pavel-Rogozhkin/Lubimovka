@@ -1,6 +1,7 @@
 .switcher__dot {
   width: 6px;
   height: 6px;
+  display: block;
   border: 1px solid #242424;
   cursor: pointer;
   border-radius: 50%;
@@ -8,5 +9,7 @@
 }
 
 .switcher__dot:checked {
+  width: 8px;
+  height: 8px;
   background-color: #242424;
 }
