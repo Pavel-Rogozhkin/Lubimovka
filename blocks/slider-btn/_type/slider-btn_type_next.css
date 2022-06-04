@@ -16,9 +16,9 @@
   transition: border-top-color .1s ease-in-out .0s,
               border-right-color .1s ease-in-out .1s,
               background-color .1s ease-in-out .2s;
-  border-top-color: #242424;
-  border-right-color: #242424;
-  background-color: #242424;
+  border-top-color: var(--border-color);
+  border-right-color: var(--border-color);
+  background-color: var(--hover-bg-color);
 }
 
 .slider-btn_type_next:hover:after {
@@ -38,6 +38,6 @@
 }
 
 .slider-btn_type_next:active:before {
-  background-color: #242424;
+  background-color: var(--active-bg-color);
   transform: scale(1.1);
 }
