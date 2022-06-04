@@ -16,6 +16,7 @@
 @import url(../blocks/slider-navigation/slider-navigation.css);
 @import url(../blocks/switcher/switcher.css);
 @import url(../blocks/switcher/__dot/switcher__dot.css);
+@import url(../blocks/switcher/_placed/switcher_placed_slider-navigation.css);
 @import url(../blocks/slider-btn/slider-btn.css);
 @import url(../blocks/slider-btn/_type/slider-btn_type_next.css);
 @import url(../blocks/slider-btn/_type/slider-btn_type_previous.css);
