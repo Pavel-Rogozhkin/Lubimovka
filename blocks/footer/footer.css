@@ -1,0 +1,8 @@
+.footer {
+  display: flex;
+  background-color: #ECEBE8;
+}
+
+* {
+  border: 1px solid red;
+}

@@ -1,0 +1,4 @@
+.footer__grid {
+  display: grid;
+  grid-template-columns: 655px min-content min-content min-content;
+}

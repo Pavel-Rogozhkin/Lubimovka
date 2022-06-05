@@ -1,0 +1,10 @@
+.footer__navbar-link {
+  text-decoration: none;
+  font-family: 'Formular';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.21;
+  color: #242424;
+  margin-bottom: 15px;
+}

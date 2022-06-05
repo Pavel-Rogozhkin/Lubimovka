@@ -6,3 +6,24 @@
 @import url(../blocks/header/header.css);
 
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__paragraph/footer__paragraph.css);
+@import url(../blocks/footer/__partners/footer__partners.css);
+@import url(../blocks/footer/__partners__label/footer__partners-label.css);
+@import url(../blocks/footer/__partners-list/footer__partners-list.css);
+@import url(../blocks/footer/__prohorov/footer__prohorov.css);
+@import url(../blocks/footer/__mosbrew/footer__mosbrew.css);
+@import url(../blocks/footer/__sbtg/footer__sbtg.css);
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__contacts-address/footer__contacts-address.css);
+@import url(../blocks/footer/__contacts/footer__contacts.css);
+@import url(../blocks/footer/__contacts-place/footer__contacts-place.css);
+@import url(../blocks/footer/__navbar/footer__navbar.css);
+@import url(../blocks/footer/__navbar-links/footer__navbar-links.css);
+@import url(../blocks/footer/__navbar-links-item/footer__navbar-links-item.css);
+@import url(../blocks/footer/__navbar-link/footer__navbar-link.css);
+@import url(../blocks/footer/__grid/footer__grid.css);
+
+
+
+
