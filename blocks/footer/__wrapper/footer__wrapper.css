@@ -1,0 +1,7 @@
+.footer__wrapper {
+  display: flex;
+  justify-content: space-between;
+  max-width: calc(100% - 2*95px);
+  margin: auto;
+  padding-top: 40px;
+}

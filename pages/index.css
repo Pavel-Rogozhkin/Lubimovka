@@ -23,6 +23,15 @@
 @import url(../blocks/footer/__navbar-links-item/footer__navbar-links-item.css);
 @import url(../blocks/footer/__navbar-link/footer__navbar-link.css);
 @import url(../blocks/footer/__grid/footer__grid.css);
+@import url(../blocks/footer/__wrapper/footer__wrapper.css);
+@import url(../blocks/footer/__copyrights/footer__copyrights.css);
+@import url(../blocks/footer/__design/footer__design.css);
+@import url(../blocks/footer/__copy/footer__copy.css);
+@import url(../blocks/footer/__politic/footer__politic.css);
+@import url(../blocks/footer/__copyrights-logo/footer__copyrights-logo.css);
+@import url(../blocks/footer/__design-text/footer__design-text.css);
+@import url(../blocks/footer/__design-link/footer__design-link.css);
+@import url(../blocks/footer/__devs/footer__devs.css);
 
 
 

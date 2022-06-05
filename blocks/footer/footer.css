@@ -1,8 +1,9 @@
 .footer {
   display: flex;
+  min-height: 492px;
   background-color: #ECEBE8;
 }
 
-* {
+/* * {
   border: 1px solid red;
-}
+} */
