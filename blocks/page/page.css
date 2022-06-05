@@ -7,6 +7,7 @@
   --hover-bg-color: #242424;
   --active-bg-color: #242424;
   --border-color: #242424;
+  background-color: var(--main-bg-color);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
