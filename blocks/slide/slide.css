@@ -1,4 +1,4 @@
 .slide {
   width: 100%;
-  background-color: #fff;
+  background-color: var(--slide-bg-color);
 }
