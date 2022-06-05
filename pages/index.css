@@ -7,8 +7,10 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__navi/header__navi.css);
 @import url(../blocks/header/__link/header__link.css);
-@import url(../blocks/header/__elipse-left/header__elipse-left.css);
-@import url(../blocks/header/__elipse-right/header__elipse-right.css);
+@import url(../blocks/header/__elipse/header__elipse.css);
+@import url(../blocks/header/__elipse/_left/header__elipse_left.css);
+@import url(../blocks/header/__elipse/_right/header__elipse_right.css);
+@import url(../blocks/header/__navi/_list/header__navi_list.css);
 @import url(../blocks/header/__navi-link/header__navi-link.css);
 @import url(../blocks/header/__social-links/header__social-links.css);
 @import url(../blocks/header/__social-link/header__social-link.css);
