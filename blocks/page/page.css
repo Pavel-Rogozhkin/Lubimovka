@@ -9,7 +9,7 @@
   --border-color: #242424;
   --slide-bg-color: #fff;
   --btn-image: url(../../../images/arrow.svg);
-  --btn-image-hover: url(../../../images/arrow-right-white.svg);
+  --btn-image-hover: url(../../../images/arrow-white.svg);
   background-color: var(--main-bg-color);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
