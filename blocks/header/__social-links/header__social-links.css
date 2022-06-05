@@ -1,9 +1,12 @@
 .header__social-links {
   margin: 0;
+  margin-left: 45.5px;
+  margin-bottom: 5px;
   padding: 0;
   max-width: 250px;
   list-style: none;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 0.3px;
 }

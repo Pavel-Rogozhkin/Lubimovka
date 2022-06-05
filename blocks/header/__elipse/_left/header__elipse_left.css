@@ -1,3 +1,8 @@
 .header__elipse_left {
   background-image: url("../../../../images/Ellipse-left.svg");
 }
+
+.header__elipse_left_ {
+  background-image: url("../../../../images/Ellipse-left.svg");
+  margin-right: -2px;
+}

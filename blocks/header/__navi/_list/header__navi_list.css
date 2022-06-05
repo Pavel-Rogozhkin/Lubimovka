@@ -1,11 +1,11 @@
 .header__navi_list {
   margin: 0;
-  margin-left: 15px;
-  margin-bottom: 1px;
+  margin-left: 33px;
+  margin-bottom: 3px;
   padding: 0;
-  width: 910px;
+  max-width: 885px;
   display: flex;
   align-items: center;
-  gap: 12.17px;
+  gap: 12.15px;
   list-style: none;
 }

@@ -8,5 +8,5 @@
   border-bottom: 1px solid #242424;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: stretch;
 }
