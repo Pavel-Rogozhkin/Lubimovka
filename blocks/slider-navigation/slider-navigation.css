@@ -1,6 +1,4 @@
 .slider-navigation {
-  max-width: 718px;
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
 }
