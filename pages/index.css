@@ -12,6 +12,7 @@
 @import url(../blocks/header/__elipse/_right/header__elipse_right.css);
 @import url(../blocks/header/__navi/_list/header__navi_list.css);
 @import url(../blocks/header/__navi-link/header__navi-link.css);
+@import url(../blocks/header/__borders/header__borders.css);
 @import url(../blocks/header/__social-links/header__social-links.css);
 @import url(../blocks/header/__social-link/header__social-link.css);
 @import url(../blocks/header/__to-support/header__to-support.css);
