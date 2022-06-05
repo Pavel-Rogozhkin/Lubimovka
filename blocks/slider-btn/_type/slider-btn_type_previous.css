@@ -12,16 +12,16 @@
 }
 
 .slider-btn_type_previous:hover {
-  transition: border-right-color .1s ease-in-out .0s,
-              border-top-color .1s ease-in-out .1s,
-              background-color .1s ease-in-out .2s;
+  transition: border-right-color .3s ease-in-out .0s,
+              border-top-color .2s ease-in-out .1s,
+              background-color .3s ease-in-out .3s;
   border-top-color: var(--border-color);
   border-right-color: var(--border-color);
   background-color: var(--hover-bg-color);
 }
 
 .slider-btn_type_previous:hover:after {
-  transition: background-image .1s ease-in-out .2s;
+  transition: background-image .2s ease-in-out .3s;
   background-image: var(--btn-image-hover);
 }
 
