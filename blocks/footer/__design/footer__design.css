@@ -1,10 +1,4 @@
 .footer__design {
   display: flex;
-  font-family: 'Formular';
-  font-style: normal;
-  font-weight: 300;
-  font-size: 14px;
-  line-height: 1.21;
-  color: var(--text-color);
   position: relative;
 }
