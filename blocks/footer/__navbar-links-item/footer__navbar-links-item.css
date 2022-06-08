@@ -1,0 +1,8 @@
+.footer__navbar-links-item {
+  list-style: none;
+  margin-bottom: 15px;
+}
+
+.footer__navbar-links-item:last-of-type {
+  margin: 0;
+}

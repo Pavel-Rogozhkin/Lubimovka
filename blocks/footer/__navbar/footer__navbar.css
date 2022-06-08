@@ -1,0 +1,4 @@
+.footer__navbar {
+  grid-row-start: 2;
+  justify-self: center;
+}
