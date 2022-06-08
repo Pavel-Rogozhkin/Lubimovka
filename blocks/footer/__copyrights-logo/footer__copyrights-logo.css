@@ -1,7 +1,6 @@
 .footer__copyrights-logo {
   width: 27px;
   height: 25px;
-  position: absolute;
-  top: -4px;
-  left: -30px;
+  position: relative;
+  left: -2px;
 }

@@ -1,7 +1,7 @@
 .footer__wrapper {
-  display: flex;
-  justify-content: space-between;
-  max-width: calc(100% - 2*95px);
+  max-width: calc(100% - 2*82px);
   margin: auto;
   padding-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr 2fr repeat(2, 1fr);
 }

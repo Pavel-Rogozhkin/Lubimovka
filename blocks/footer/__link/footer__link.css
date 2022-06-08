@@ -1,13 +1,14 @@
 .footer__link {
-  text-decoration: none;
+  text-decoration-color: transparent;
   font-family: 'Formular';
   font-style: normal;
   font-weight: 300;
   font-size: 14px;
   line-height: 1.21;
   color: var(--text-color);
+  transition: .5s;
 }
 
 .footer__link:hover {
-  text-decoration: underline;
+  text-decoration-color: black;
 }

@@ -1,4 +1,5 @@
 .footer__grid {
   display: grid;
-  grid-template-columns: 655px min-content min-content min-content;
+  grid-template-columns: 3fr repeat(3, 1fr);
+  margin-right: 115px;
 }

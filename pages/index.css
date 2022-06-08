@@ -11,9 +11,6 @@
 @import url(../blocks/footer/__partners/footer__partners.css);
 @import url(../blocks/footer/__partners__label/footer__partners-label.css);
 @import url(../blocks/footer/__partners-list/footer__partners-list.css);
-@import url(../blocks/footer/__prohorov/footer__prohorov.css);
-@import url(../blocks/footer/__mosbrew/footer__mosbrew.css);
-@import url(../blocks/footer/__sbtg/footer__sbtg.css);
 @import url(../blocks/footer/__container/footer__container.css);
 @import url(../blocks/footer/__contacts-address/footer__contacts-address.css);
 @import url(../blocks/footer/__contacts/footer__contacts.css);
@@ -30,6 +27,7 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__text/footer__text.css);
 @import url(../blocks/footer/__devs/footer__devs.css);
+@import url(../blocks/footer/__partner-logo/footer__partner-logo.css);
 
 
 

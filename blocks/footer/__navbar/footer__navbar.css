@@ -1,11 +1,4 @@
 .footer__navbar {
   grid-row-start: 2;
-}
-
-.footer__navbar:first-of-type {
-  padding-right: 100px;
-}
-
-.footer__navbar:last-of-type {
-  padding-left: 77px;
+  justify-self: center;
 }
