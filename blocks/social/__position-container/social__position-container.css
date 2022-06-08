@@ -1,0 +1,6 @@
+.social__position-container {
+  padding-top: 40px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
