@@ -1,0 +1,5 @@
+.footer {
+  display: flex;
+  min-height: 492px;
+  background-color: var(--main-bg-color)
+}
