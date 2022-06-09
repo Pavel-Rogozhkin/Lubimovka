@@ -18,7 +18,6 @@
 @import url(../blocks/header/__social-links/header__social-links.css);
 @import url(../blocks/header/__social-link/header__social-link.css);
 @import url(../blocks/header/__to-support/header__to-support.css);
-@import url(../blocks/header/__to-support/_plus/header__to-support_plus.css);
-@import url(../blocks/header/__to-support/_link/header__to-support_link.css);
+@import url(../blocks/header/__to-support-link/header__to-support-link.css);
 
 @import url(../blocks/footer/footer.css);
