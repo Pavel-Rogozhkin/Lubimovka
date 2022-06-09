@@ -9,4 +9,5 @@
   align-items: center;
   justify-content: space-between;
   gap: 0.3px;
+  flex-grow: 1;
 }
