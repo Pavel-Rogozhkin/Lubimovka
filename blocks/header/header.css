@@ -5,7 +5,7 @@
   padding-bottom: 11px;
   min-width: 1440px;
   min-height: 35px;
-  border-bottom: 1px solid #242424;
+  border-bottom: 1px solid var(--text-color);
   display: flex;
   align-items: center;
   justify-content: stretch;
