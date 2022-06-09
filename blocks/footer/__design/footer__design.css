@@ -1,0 +1,5 @@
+.footer__design {
+  display: flex;
+  grid-column-start: 4;
+  width: 400px;
+}

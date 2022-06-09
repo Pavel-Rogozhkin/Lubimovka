@@ -1,0 +1,5 @@
+.footer__contacts {
+  grid-row-start: 2;
+  max-width: 231px;
+  padding-left: 82px;
+}
