@@ -8,6 +8,26 @@
   font-weight: 300;
 }
 
-.header__link:hover .header__elipse {
-  opacity: 1;
+.header__link:hover:before {
+  content: '';
+  background-image: url(../../../images/Ellipse-left.svg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: -10px;
+}
+
+.header__link:hover:after {
+  content: '';
+  background-image: url(../../../images/Ellipse-right.svg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 100%;
 }

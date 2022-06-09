@@ -1,7 +1,7 @@
 .header__navi-list {
   margin: 0;
   margin-left: 33px;
-  margin-bottom: 3px;
+  min-height: 25px;
   padding: 0;
   display: flex;
   align-items: center;
