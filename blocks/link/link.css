@@ -7,7 +7,7 @@
   }
 }
 
-.social__link {
+.link {
   min-width: 53px;
   min-height: 25px;
   padding: 0;
@@ -29,18 +29,18 @@
   overflow: hidden;
 }
 
-.social__link:active {
+.link:active {
   animation-name: pulse;
   animation-timing-function: linear; 
   animation-iteration-count: 1;
   animation-duration: 0.4s; 
 }
 
-.social__link:hover {
+.link:hover {
   color: white;
 }
 
-.social__link::after {
+.link::after {
   content: "";
   background: black;
   position: absolute;
@@ -51,7 +51,7 @@
   z-index: -1;
 }
 
-.social__link:hover::after {
+.link:hover::after {
   left: 0;
   right: 0;
   top: 0;

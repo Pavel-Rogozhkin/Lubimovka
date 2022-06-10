@@ -5,11 +5,14 @@
 
 @import url(../blocks/header/header.css);
 
+@import url(../blocks/link/link.css);
+
 @import url(../blocks/text-block/text-block.css);
 @import url(../blocks/text-block/_placed/text-block_placed_center.css);
 @import url(../blocks/text-block/_placed/text-block_placed_slider-title.css);
 @import url(../blocks/text-block/_placed/text-block_placed_feedback.css);
 @import url(../blocks/text-block/__title/text-block__title.css);
+@import url(../blocks/text-block/__title/_place/text-block__title_place_social.css);
 @import url(../blocks/text-block/__text/text-block__text.css);
 @import url(../blocks/text-block/__caption/text-block__caption.css);
 @import url(../blocks/text-block/__caption/_margin_size/text-block__caption_margin_size_l.css);
@@ -31,8 +34,6 @@
 @import url(../blocks/social/__head-image/social__head-image.css);
 @import url(../blocks/social/__position-container/social__position-container.css);
 @import url(../blocks/social/__links/social__links.css);
-@import url(../blocks/social/__link/social__link.css);
-@import url(../blocks/social/__title/social__title.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__logo/footer__logo.css);
