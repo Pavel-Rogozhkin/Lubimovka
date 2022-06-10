@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,6 +11,7 @@
   <meta name="keywords" content="#">
   <meta name="author" content="#">
 </head>
+
 <body class="page">
 
   <header class="header">
@@ -22,8 +24,20 @@
 
     </section>
 
-    <section class="photos">
-
+    <section class="gallery">
+      <div class="gallery__block">
+        <h2 class="gallery__block_title">Заголовок блока с фотографиями</h2>
+      </div>
+      <div class="gallery__list">
+        <img src="./images/img-gallery-1.jpg" alt="Подготовка к пьесе #4" class="gallery__list_element">
+        <img src="./images/img-gallery-2.jpg" alt="Подготовка к пьесе #1" class="gallery__list_element">
+        <img src="./images/img-gallery-3.jpg" alt="Подготовка к пьесе #2" class="gallery__list_element">
+        <img src="./images/img-gallery-4.jpg" alt="Подготовка к пьесе #3" class="gallery__list_element">
+        <img src="./images/img-gallery-5.jpg" alt="Подготовка к пьесе #5" class="gallery__list_element">
+        <img src="./images/img-gallery-6.jpg" alt="Подготовка к пьесе #6" class="gallery__list_element">
+        <img src="./images/img-gallery-7.jpg" alt="Подготовка к пьесе #7" class="gallery__list_element">
+        <img src="./images/img-gallery-8.jpg" alt="Подготовка к пьесе #8" class="gallery__list_element">
+      </div>
     </section>
 
     <section class="reviews">
@@ -39,7 +53,7 @@
               <input class="switcher__dot" type="radio" name="switcher-dot" checked="checked">
             </li>
             <li>
-              <input class="switcher__dot" type="radio" name="switcher-dot" >
+              <input class="switcher__dot" type="radio" name="switcher-dot">
             </li>
             <li>
               <input class="switcher__dot" type="radio" name="switcher-dot">
@@ -56,19 +70,24 @@
       <ul class="slider slider_placed_feedback">
         <li class="slide slide_placed_feedback">
           <div class="text-block text-block_placed_feedback">
-            <p class="text-block__text">Что-то похожее на эффект от мультфильмов типа «Сауз Парк» или про коня Боджэка возникает — я думаю, и пьеса написана с этой интонацией американских взрослых мультсериалов. И как хорошо все это с куклой-носочком. Так все чисто сделано!</p>
+            <p class="text-block__text">Что-то похожее на эффект от мультфильмов типа «Сауз Парк» или про коня Боджэка
+              возникает — я думаю, и пьеса написана с этой интонацией американских взрослых мультсериалов. И как хорошо
+              все это с куклой-носочком. Так все чисто сделано!</p>
             <p class="text-block__caption text-block__caption_margin_size_l">Наталья Зайцева</p>
           </div>
         </li>
         <li class="slide slide_placed_feedback">
           <div class="text-block text-block_placed_feedback">
-            <p class="text-block__text">Для самой этой истории формат читки работает отличным ироническим отстранением</p>
+            <p class="text-block__text">Для самой этой истории формат читки работает отличным ироническим отстранением
+            </p>
             <p class="text-block__caption text-block__caption_margin_size_l">Дина Годер</p>
           </div>
         </li>
         <li class="slide slide_placed_feedback">
           <div class="text-block text-block_placed_feedback">
-            <p class="text-block__text">Мне данный формат дал возможность самой выбирать, как двигается персонаж, что на нем надето, какую машину он водит, и что за плакат висит в подвале церкви. Это было приятно, ведь я как будто сама поучаствовала в спектакле</p>
+            <p class="text-block__text">Мне данный формат дал возможность самой выбирать, как двигается персонаж, что на
+              нем надето, какую машину он водит, и что за плакат висит в подвале церкви. Это было приятно, ведь я как
+              будто сама поучаствовала в спектакле</p>
             <p class="text-block__caption text-block__caption_margin_size_l">Дарья Морозова</p>
           </div>
         </li>
@@ -209,33 +228,34 @@
             </li>
           </ul>
         </nav>
-    </div>
-    <div class="footer__wrapper">
-      <div class="footer__copyrights">
-        <p class="footer__text">
-          &copy; Любимовка 2022
-        </p>
-        <a href="#" target="_blank" class="footer__link">
-          Политика конфиденциальности
-        </a>
       </div>
-      <div class="footer__design">
-        <img src="./images/shishki.svg" alt="" class="footer__copyrights-logo">
-        <p class="footer__design-text footer__text">
-          дизайн сайта — 
+      <div class="footer__wrapper">
+        <div class="footer__copyrights">
+          <p class="footer__text">
+            &copy; Любимовка 2022
+          </p>
           <a href="#" target="_blank" class="footer__link">
-            shishki.collective
+            Политика конфиденциальности
           </a>
-        </p>
-        <p class="footer__devs footer__text">
-          вёрстка и разработака — студенты&nbsp; 
-          <a href="#" target="_blank" class="footer__link">
-            Яндекс.Практикума
-          </a>
-        </p>
+        </div>
+        <div class="footer__design">
+          <img src="./images/shishki.svg" alt="" class="footer__copyrights-logo">
+          <p class="footer__design-text footer__text">
+            дизайн сайта —
+            <a href="#" target="_blank" class="footer__link">
+              shishki.collective
+            </a>
+          </p>
+          <p class="footer__devs footer__text">
+            вёрстка и разработака — студенты&nbsp;
+            <a href="#" target="_blank" class="footer__link">
+              Яндекс.Практикума
+            </a>
+          </p>
+        </div>
       </div>
-    </div>
   </footer>
 
 </body>
+
 </html>
