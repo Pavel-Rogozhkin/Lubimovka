@@ -1,10 +1,10 @@
 .header__navi-list {
   margin: 0;
-  margin-left: 33px;
-  min-height: 25px;
+  margin-bottom: 3px;
   padding: 0;
+  min-height: 25px;
   display: flex;
   align-items: center;
-  justify-content: space-around;
   list-style: none;
+  gap: 44.3px;
 }

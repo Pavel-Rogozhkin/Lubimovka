@@ -1,13 +1,16 @@
 .header__social-links {
   margin: 0;
-  margin-left: 45.5px;
-  min-height: 25px;
+  /* margin-bottom: 3px; */
   padding: 0;
-  max-width: 250px;
+  /* margin-top: 10px; */
+  padding-left: 23px;
+  min-height: 50px;
+  max-width: 233px;
   list-style: none;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 0.3px;
+  gap: 16px;
   flex-grow: 1;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
 }
