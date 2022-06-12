@@ -1,0 +1,8 @@
+.social__head-image {
+  min-height: 404px;
+  margin:0 60px;
+  background-image: url(../../../images/social__head-image.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
