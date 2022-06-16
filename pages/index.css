@@ -10,7 +10,14 @@
 @import url(../blocks/text-block/_placed/text-block_placed_slider-title.css);
 @import url(../blocks/text-block/_placed/text-block_placed_feedback.css);
 @import url(../blocks/text-block/__title/text-block__title.css);
+@import url(../blocks/text-block/__title/_font-size/_l/text-block__title_font-size_l.css);
+@import url(../blocks/text-block/__title/_font-size/_s/text-block__title_font-size_s.css);
+@import url(../blocks/text-block/__title-item/text-block__title-item.css);
+@import url(../blocks/text-block/__subtitle/text-block__subtitle.css);
 @import url(../blocks/text-block/__text/text-block__text.css);
+@import url(../blocks/text-block/__desc/text-block__desc.css);
+@import url(../blocks/text-block/__desc/_font-size/_s/text-block__desc_font-size_s.css);
+@import url(../blocks/text-block/__link/text-block__link.css);
 @import url(../blocks/text-block/__caption/text-block__caption.css);
 @import url(../blocks/text-block/__caption/_margin_size/text-block__caption_margin_size_l.css);
 @import url(../blocks/slider-navigation/slider-navigation.css);
