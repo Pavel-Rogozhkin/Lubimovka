@@ -1,0 +1,8 @@
+.authors__desc:first-of-type {
+  padding-right: 16px;
+  border-right: 1px solid #242424;
+}
+
+.authors__desc:last-of-type {
+  padding-left: 16px;
+}

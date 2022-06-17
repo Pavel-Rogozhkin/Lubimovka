@@ -1,0 +1,11 @@
+.link {
+  display: block;
+  font-family: 'Formular';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  text-transform: uppercase;
+  color: #242424;
+  text-decoration: none;
+}

@@ -1,0 +1,17 @@
+.link__preview {
+  padding: 16px;
+  border-top: 1px solid #242424;
+  position: relative;
+}
+
+.link__preview:before {
+  content: '';
+  display: block;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: transparent url(../../../images/arrow.svg) no-repeat center;
+  transform: rotate(-45deg);
+}

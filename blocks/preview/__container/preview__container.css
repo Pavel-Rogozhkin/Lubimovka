@@ -1,0 +1,8 @@
+.preview__container {
+  min-height: 300px;
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #B7C09D;
+}

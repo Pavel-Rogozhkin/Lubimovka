@@ -1,4 +1,6 @@
 .text-block__desc {
+  margin: 0;
+  max-width: 590px;
   font-family: 'Neue Machina';
   font-style: normal;
   font-weight: 400;

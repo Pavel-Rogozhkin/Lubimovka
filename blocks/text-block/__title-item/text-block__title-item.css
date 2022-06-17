@@ -1,4 +1,5 @@
 .text-block__title-item {
+  margin: 0;
   font-family: 'Formular';
   font-style: normal;
   font-weight: 300;
