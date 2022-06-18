@@ -1,0 +1,3 @@
+.preview__link_rotate_arrow:before {
+  transform: rotate(90deg);
+}

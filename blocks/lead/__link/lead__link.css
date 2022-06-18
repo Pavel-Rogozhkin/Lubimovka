@@ -1,4 +1,4 @@
-.link__lead {
+.lead__link {
   margin-top: 16px;
   padding: 16px;
   width: 240px;
@@ -8,7 +8,7 @@
   position: relative;
 }
 
-.link__lead:after {
+.lead__link:after {
   content: '';
   display: block;
   width: 100%;

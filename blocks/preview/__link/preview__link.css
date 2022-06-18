@@ -1,10 +1,10 @@
-.link__preview {
+.preview__link {
   padding: 16px;
   border-top: 1px solid #242424;
   position: relative;
 }
 
-.link__preview:before {
+.preview__link:before {
   content: '';
   display: block;
   width: 25px;
