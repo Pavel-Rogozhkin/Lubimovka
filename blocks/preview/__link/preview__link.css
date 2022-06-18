@@ -2,6 +2,7 @@
   padding: 16px;
   border-top: 1px solid #242424;
   position: relative;
+  z-index: 1;
 }
 
 .preview__link:before {
@@ -14,4 +15,38 @@
   right: 16px;
   background: transparent url(../../../images/arrow.svg) no-repeat center;
   transform: rotate(-45deg);
+}
+
+.preview__link:after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background-color: #242424;
+  transition: width .4s ease;
+  z-index: -1;
+}
+
+.preview__link:hover {
+  color: #fff;
+}
+
+.preview__link:hover:before {
+  background: url(../../../images/arrow-white.svg);
+  transition: background .2s ease .2s;
+}
+
+.preview__link:hover:after {
+  width: 100%;
+}
+
+.preview__link:active:after {
+  border-color: #242424;
+}
+
+.preview__link:active:after {
+  transform: scale(1.1);
 }
