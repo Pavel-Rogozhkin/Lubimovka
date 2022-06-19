@@ -1,4 +1,4 @@
-.container {
+.projects {
   display: grid;
   grid-template: 94px auto auto / repeat(2, 1fr);
   row-gap: 68px;

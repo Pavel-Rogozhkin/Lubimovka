@@ -1,6 +1,6 @@
 .authors__desc:first-of-type {
   padding-right: 16px;
-  border-right: 1px solid #242424;
+  border-right: 1px solid var(--border-color);
 }
 
 .authors__desc:last-of-type {

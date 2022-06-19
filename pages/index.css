@@ -36,8 +36,8 @@
 @import url(../blocks/preview/__link/preview__link.css);
 @import url(../blocks/preview/__link/_rotate/preview__link_rotate_arrow.css);
 
-@import url(../blocks/container/container.css);
-@import url(../blocks/container/__link/container__link.css);
+@import url(../blocks/projects/projects.css);
+@import url(../blocks/projects/__link/projects__link.css);
 
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__link/lead__link.css);

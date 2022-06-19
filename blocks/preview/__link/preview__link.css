@@ -1,6 +1,6 @@
 .preview__link {
   padding: 16px;
-  border-top: 1px solid #242424;
+  border-top: 1px solid var(--border-color);
   position: relative;
   z-index: 1;
 }
@@ -13,7 +13,7 @@
   position: absolute;
   top: 16px;
   right: 16px;
-  background: transparent url(../../../images/arrow.svg) no-repeat center;
+  background: transparent var(--link-image) no-repeat center;
   transform: rotate(-45deg);
 }
 
@@ -25,17 +25,17 @@
   left: 0;
   width: 0;
   height: 100%;
-  background-color: #242424;
+  background-color: var(--hover-bg-color);
   transition: width .4s ease;
   z-index: -1;
 }
 
 .preview__link:hover {
-  color: #fff;
+  color: var(--text-color-hover);
 }
 
 .preview__link:hover:before {
-  background: url(../../../images/arrow-white.svg);
+  background: var(--link-image-hover);
   transition: background .2s ease .2s;
 }
 
@@ -44,7 +44,7 @@
 }
 
 .preview__link:active:after {
-  border-color: #242424;
+  border-color: var(--border-color);
 }
 
 .preview__link:active:after {
