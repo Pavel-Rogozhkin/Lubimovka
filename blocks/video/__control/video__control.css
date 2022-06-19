@@ -18,6 +18,7 @@
   height: 100%;
   display: block;
   background: transparent url(../../../images/play.svg) no-repeat center;
+  transition: all .4s ease;
 }
 
 .video__control:hover:before {

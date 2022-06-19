@@ -22,6 +22,7 @@
 @import url(../blocks/text-block/__desc/_font-size/_s/text-block__desc_font-size_s.css);
 @import url(../blocks/text-block/__desc/_margin_size/_l/text-block__desc_margin_size_l.css);
 @import url(../blocks/text-block/__desc/_margin_size/_s/text-block__desc_margin_size_s.css);
+@import url(../blocks/text-block/__desc/_margin-left/text-block__desc_margin-left.css);
 @import url(../blocks/text-block/__desc-items/text-block__desc-items.css);
 @import url(../blocks/text-block/__link/text-block__link.css);
 @import url(../blocks/text-block/__caption/text-block__caption.css);
