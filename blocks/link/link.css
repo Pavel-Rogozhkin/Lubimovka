@@ -5,6 +5,7 @@
   font-weight: 300;
   font-size: 16px;
   line-height: 22px;
+  box-sizing: border-box;
   text-transform: uppercase;
   color: var(--link-color);
   text-decoration: none;
