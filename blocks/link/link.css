@@ -9,3 +9,48 @@
   color: var(--link-color);
   text-decoration: none;
 }
+
+.link:before {
+  content: '';
+  display: block;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  top: 3px;
+  right: 0;
+  background: transparent var(--link-image) no-repeat center;
+}
+
+.link:after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background-color: var(--hover-bg-color);
+  transition: width .4s ease;
+  z-index: -1;
+}
+
+.link:hover {
+  color: var(--text-color-hover);
+}
+
+.link:hover:before {
+  background: var(--link-image-hover);
+  transition: background .2s ease .2s;
+}
+
+.link:hover:after {
+  width: 100%;
+}
+
+.link:active {
+  border-color: var(--active-bg-color);
+}
+
+.link:active:after {
+  transform: scale(1.1);
+}

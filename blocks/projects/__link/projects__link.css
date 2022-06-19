@@ -13,47 +13,6 @@
 }
 
 .projects__link:before {
-  content: '';
-  width: 25px;
-  height: 25px;
-  position: absolute;
-  top: 3px;
-  right: 0;
-  background: transparent var(--link-image) no-repeat center;
   transform: rotate(180deg);
 
-}
-
-.projects__link:after {
-  content: '';
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 0;
-  height: 100%;
-  background-color: var(--hover-bg-color);
-  transition: width .4s ease;
-  z-index: -1;
-}
-
-.projects__link:hover {
-  color: var(--text-color-hover);
-}
-
-.projects__link:hover:before {
-  background: var(--link-image-hover);
-  transition: background .2s ease .2s;
-}
-
-.projects__link:hover:after {
-  width: 100%;
-}
-
-.projects__link:active:after {
-  border-color: var(--border-color);
-}
-
-.projects__link:active:after {
-  transform: scale(1.1);
 }
