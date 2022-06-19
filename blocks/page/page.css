@@ -8,10 +8,11 @@
   --main-bg-color: #e5e5e5;
   --hover-bg-color: #242424;
   --active-bg-color: #242424;
-  --border-color: #242424;
-  --border-color-black: #000;
   --slide-bg-color: #fff;
   --preview-bg-color: #B7C09D;
+  --video-control-bg-color: #ECEBE8;
+  --border-color: #242424;
+  --border-color-black: #000;
   --btn-image: url(../../../images/arrow.svg);
   --btn-image-hover: url(../../../images/arrow-white.svg);
   --link-image: url(../../../images/arrow.svg);
