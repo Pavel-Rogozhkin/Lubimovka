@@ -4,6 +4,21 @@
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__navi/header__navi.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__elipse/header__elipse.css);
+@import url(../blocks/header/__elipse/_type/header__elipse_type_left-soc.css);
+@import url(../blocks/header/__elipse/_type/header__elipse_type_left.css);
+@import url(../blocks/header/__elipse/_type/header__elipse_type_right-soc.css);
+@import url(../blocks/header/__elipse/_type/header__elipse_type_right.css);
+@import url(../blocks/header/__navi-list/header__navi-list.css);
+@import url(../blocks/header/__navi-link/header__navi-link.css);
+@import url(../blocks/header/__borders/header__borders.css);
+@import url(../blocks/header/__social-links/header__social-links.css);
+@import url(../blocks/header/__social-link/header__social-link.css);
+@import url(../blocks/header/__to-support/header__to-support.css);
+@import url(../blocks/header/__to-support-link/header__to-support-link.css);
 
 @import url(../blocks/link/link.css);
 
